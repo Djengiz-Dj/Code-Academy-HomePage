@@ -1,0 +1,47 @@
+.divPart2 {
+    display: block;
+    margin: -10% 0% 1% 0%;
+    padding: 2% 0% 1% 0%;
+}
+
+.steps123 {
+    display: inline-grid;
+    margin: 1% 1% 1% 1%;
+    padding: 1% 1% 1% 1%;
+    width: 28vw;
+    text-align: center;
+}
+
+.circle {
+    display: block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color:rgb(255 255 255);
+    position: relative;
+    margin: 1% 1% 1% 1%;
+    padding: 1% 1% 1% 1%;
+    border: 15px solid #ccf4f4;
+}
+
+.divCircle {
+    margin: 1% 27% 1% 26%;
+    padding: 1% 1% 1% 1%;
+}
+.h1Circle{
+    font-size: 50px;
+    margin: 1% 1% 1% 1%;
+    padding: 20% 1% 1% 1%;
+}
+
+/* @media only screen and (max-width: 992px) 
+.outer-circle{
+    background: #eff2ff;
+    border-radius: 50%;
+    height: 110px;
+    width: 110px;
+    position: relative;
+    box-shadow: inset 0 0 5px rgba(0,0,0,.15), 0 0 7px #06060600;
+    z-index: 0;
+    margin: 0 auto;
+}*/
