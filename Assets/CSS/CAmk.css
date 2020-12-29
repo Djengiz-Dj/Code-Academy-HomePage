@@ -1,0 +1,87 @@
+.navItems {
+  padding-right: 4.2rem !important;
+  font-size: 16px;
+  color: black;
+  text-align: center;
+}
+
+.navItems:hover {
+  border-bottom: 1px solid rgb(21, 159, 206);
+  cursor: pointer;
+}
+
+.apliciraj1 {
+  background-color: rgb(21, 159, 206);
+  border-radius: 10px;
+  text-align: center;
+  font-size: 18px;
+  color: white !important;
+}
+.apliciraj1:hover{
+  border-bottom: 1px solid rgb(21, 159, 206);
+  cursor: pointer;
+}
+
+.apliciraj-rest{
+  background-color: #55c7ec;
+  border-radius: 5px;
+  display: inline-flex;
+  margin: 2% 0% 2% 0%;
+  padding: 1% 4% 1% 4%;
+  text-align: center;
+  font-size: 18px;
+  color: white !important;
+  text-decoration: none;
+}
+.apliciraj-rest:hover{
+  box-shadow: 10px 10px 10px 0px #606668;
+  cursor: pointer;
+}
+.navTop {
+  margin-bottom:5rem;
+}
+
+.divH1P {
+  padding: 5% 1% 1% 1%;
+}
+
+.divH1 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.P3-intro {
+  font-size: 21px;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.P3-header {
+  font-size: 47px;
+  text-align: center;
+  font-weight: bold;
+  padding: 5% 0% 2% 0%;
+}
+
+.P3-cubes-wrap {
+  display: flex;
+
+}
+
+.P3-cubes {
+  border: 1px solid #dedede;
+  border-radius: 5%;
+  padding: 1%;
+  font-size: 17px;
+  font-weight: bold;
+  color: #6e7780;
+  background-color: #ffff;
+  text-align: center;
+
+}
+
+.P3-cubes:hover {
+  box-shadow: 10px 10px 10px 0px rgb(193 193 193);
+  cursor: pointer;
+}

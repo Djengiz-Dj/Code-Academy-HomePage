@@ -1,135 +1,72 @@
-.Ul-nav{
-    list-style-type: none;
-    display: inline;
-    margin: 1% 1% 10% 1%;
-    padding: 1% 1% 10% 1%;
+.logo {
+    width: 270px;
+    margin: -7% 1% 1% 1%;
 }
-.Li-a-nav{
-    display: inline-block;
-    margin: 1% 1% 1% 1%;
-    padding: 1% 1% 1% 1%;
-    text-align: center;
-    font-size: 18px;
-    color: black;
-}
-.Li-a-nav:hover{
-    border-bottom: 1px solid rgb(21, 159, 206);
-}
-.Li-a-nav1{
-    display: inline-block;
-    margin: 1% 1% 1% 1%;
-    padding: 1% 1% 1% 1%;
-    text-align: center;
-    font-size: 18px;
-    color: black;
-}
-.navWraper{
-    margin: 1% 1% 1% 1%;
-    padding: 1% 1% 1% 1%; 
-}
-.logo{
-    width: 200px;
-}
-.phone{
+
+.phone {
     width: 19px;
 }
-.phoneSpan{
-    margin: 1% 1% 1% 1%;
-    padding: 1% 1% 1% 1%; 
-}
-.apliciraj{
-    background-color: rgb(21, 159, 206);
-    border-radius: 10px;
-    display: inline-block;
-    margin: 1% 1% 1% 1%;
-    padding: 1% 1% 1% 1%;
-    text-align: center;
-    font-size: 18px;
-    color: white;
-}
-.apliciraj-rati{
-    background-color: rgb(21, 159, 206);
-    border-radius: 5px;
-    display: inline-block;
-    margin: 2% 2% 2% 0%;
-    padding: 2% 2% 2% 2%;
-    text-align: center;
-    font-size: 18px;
-    color: white !important;
-}
-.apliciraj-rest{
-    background-color: rgb(21, 159, 206);
-    border-radius: 5px;
-    display: inline-block;
-    margin: 2% 2% 2% 0%;
-    padding: 2% 2% 2% 2%;
-    text-align: center;
-    font-size: 18px;
-    color: white !important;
-}
-.div-bodyUp{
-    padding: 0% 0% 12% 0%;
+
+.div-bodyUp {
+    padding: 0% 2% 2% 2%;
     background-image: linear-gradient(to top, #ecf7f7, white);
-    
 }
-.divLeft{
-    width: 40%;
-    margin: 1% 1% 0% 1%;
-    padding: 1% 1% 0% 1%;
-}
-.div-novo{
-    background-color: lightblue;
-    width: 48%;
-    margin: 1% 1% 1% 1%;
-    padding: 2% 1% 2% 1%;
+
+.div-novo {
+    background-color: #e9e9f5;
+    width: 15rem;
+    padding: 0.5rem;
     border-radius: 15px;
 }
 
-.button-novo{
-    background-color: #076d17;
+.button-novo {
+    background-color: #14bf14;
     border-radius: 10px;
     position: relative;
     color: white;
     margin: 1% 1% 1% 0%;
-    padding: 2% 2% 2% 2%;;
+    padding: 2% 2% 2% 2%;
+    ;
 }
-.image-right{
-    width: 15px;
-    margin: 0% 0% -1% 0% 
+
+.image-right {
+    width: 17px;
+    margin: -2% 0% -1% 1%;
 }
-.div-h1{
+
+.div-h1 {
     margin: 1% 1% 0% 1%;
     padding: 1% 1% 0% 1%;
     font-size: 26px;
 }
-.div-p{
+
+.div-p {
     margin: 1% 1% 0% 1%;
     padding: 1% 1% 0% 1%;
     font-size: 20px;
 }
-.rati{
-    background-color: rgb(197, 226, 221);
-    display: inline-block;
-    margin: 2%;
-    padding: 2%;
+
+.rati {
+    background-color: #eaedf8;
+    display: inline-flex;
     text-align: center;
     font-size: 18px;
-    font-weight: 600;
-    color: black !important;
+    color: #278cf4;
     border-radius: 5px;
+    padding: 1%;
 }
-.divRight{
-    width: 57%;
+
+.divRight {
     margin: 1% 0% 1% 1%;
     padding: 1% 0% 1% 1%;
-}
-.img-person{
-    width: 60%;
-    margin: -40% 1% 1% 1%;
-    padding: 1% 1% 1% 1%;
     float: right;
-
 }
-*{
-    font-family:sans-serif;
+
+.img-person {
+    width: 45rem;
+    margin: -80% 1% 1% 5%;
+}
+
+* {
+    font-family: sans-serif;
 }

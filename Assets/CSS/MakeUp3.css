@@ -1,34 +1,4 @@
-.pPart3{
-    text-align: center;
-    margin: 1% 1% 1% 1%;
-    padding: 1% 1% 1% 1%;
-    font-size: 25px;
-}
-.h1Part3{
-    text-align: center;
-    margin: 1% 1% 1% 1%;
-    padding: 1% 1% 1% 1%;
-    font-size: 47px;
-    font-weight: bolder;
-}
-.qPart3Display{
-    text-align: center;
-    display: flex;
-    margin: 1% 1% 1% 1%;
-}
-.qPart3{
-    border: 1px solid rgb(110, 119, 128);
-    margin: 1px;
-    padding: 1% 1% 1% 1%;
-    width: 25%;
-    font-weight: 700;
-}
-.qPart3:hover{
-    box-shadow: 10px 10px 10px 0px rgb(193 193 193);
-    cursor: pointer;
-
-}
-.qPart3-poveke{
+.qPart3-poveke {
     display: inline-block;
     margin: 2%;
     padding: 2%;
@@ -39,41 +9,42 @@
     border-radius: 5px;
     background-color: white;
 }
-.qPart3-poveke:hover{
+
+.qPart3-poveke:hover {
     box-shadow: 10px 10px 10px 0px rgb(193 193 193);
-    cursor: pointer; 
+    cursor: pointer;
 }
-.divPart3{
+
+.divPart3 {
     background-image: linear-gradient(to top, #ecf7f7, white);
     margin: 1% 5% 1% 5%;
+    display: flex;
 }
-.divPart3-left{
-    width: 40%;
-    margin: 1% 1% 0% 1%;
-    padding: 1% 1% 0% 1%;
+
+.divPart3-left {}
+
+.divPart3-left-div {
+
+    display: flex;
 }
-.divPart3-left-div{
-    margin: 1% 1% 1% 1%;
-    padding: 1% 1% 1% 1%; 
-    display: inline-block; 
-}
-.divPart3-left-div-text{
+
+.divPart3-left-div-text {
     margin: 3% 1% 3% 3%;
-    padding: 3% 1% 3% 3%; 
-    font-size: 20px;  
+    padding: 3% 1% 3% 3%;
+    font-size: 20px;
 }
-.divPart3-left-div-pointer{
+
+.divPart3-left-div-pointer {
     width: 26px;
-    margin: 3% 1% -19% -10%;
+    padding-top: 1.3rem;
 }
-.divPart3-right{
-    width: 60%;
-    margin: 1% 1% 1% 0%;
-    padding: 1% 1% 1% 0%;
-    display: block;
+
+.divPart3-right {
+    display: flex;
 }
-.imgDiplomaCA{
-    margin: -90% 1% 1% 1%;
-    padding: 1% 0% 1% 50%;
-    float: left;
+
+.imgDiplomaCA {
+    float: right;
+    display: flex;
+    width: 35rem;
 }

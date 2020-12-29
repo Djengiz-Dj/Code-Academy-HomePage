@@ -1,0 +1,20 @@
+.bodyApliciraj {
+    border: 1px solid rgb(213, 214, 216);
+    background: #fff;
+    box-shadow: 0px 10px 20px 10px #08080824;
+    border-radius: 1rem;
+}
+
+.inputColor {
+    background: lightblue;
+}
+
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(96, 196, 243);
+    color: white;
+    text-align: center;
+}
